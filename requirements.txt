@@ -1,0 +1,12 @@
+streamlit
+beautifulsoup4
+requests
+langchain
+langchain-groq
+langchain-core
+langchain-community
+faiss-cpu
+sentence-transformers
+langchain-huggingface
+python-dotenv
+pymupdf4llm
