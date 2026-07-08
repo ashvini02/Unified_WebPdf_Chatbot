@@ -10,3 +10,4 @@ sentence-transformers
 langchain-huggingface
 python-dotenv
 pymupdf4llm
+torchvision
