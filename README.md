@@ -19,9 +19,9 @@ You can create a virtual environment using standard python or `uv`.
 
 **Using standard Python:**
 ```bash
-python -m venv venv
+python -m venv .venv
 # On Windows:
-venv\Scripts\activate
+.venv\Scripts\activate
 # On Mac/Linux:
 source venv/bin/activate
 ```
